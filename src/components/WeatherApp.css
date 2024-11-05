@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.weather{
+    background: url(../assets/sunset-sky-with-clouds-background.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+img{
+    width: 600px;
+    height: 300px;
+}
+.info-box {
+    width: 150px; /* Adjust this value as needed */
+    text-align: center; /* Center the text */
+    margin: 5px; /* Add some space between boxes */
+  }
+  
+  /* Ensure the weather info section has some margin for aesthetics */
+  .weather-info {
+    margin-bottom: 20px; 
+  }
+  
+  /* Other styles as needed */
+  
